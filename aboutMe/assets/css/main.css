@@ -1649,3 +1649,7 @@ ul.icons li a:hover::after{
 			width: 100%;
 			vertical-align: bottom;
 		}
+		.work-comment h4{
+			color: #333;
+			font-size: 1.3rem;
+		}
